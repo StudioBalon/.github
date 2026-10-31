@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://balon-studio.pages.dev">Website (coming soon)</a> ·
   <a href="https://www.instagram.com/balon.il/">Instagram</a> ·
-  <a href="mailto:balon.studio.il@gmail.com">balon.studio.il@gmail.com</a>
+  <a href="mailto:team@balon.studio">team@balon.studio</a>
 </p>
 
 ---
